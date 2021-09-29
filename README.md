@@ -2,7 +2,7 @@
 
 This is a Starter Laravel 8 project with Vue 3 and Bootstrap 5.
 
-Instalation Guide:
+## Instalation Guide:
 
 As always you need to:
 
