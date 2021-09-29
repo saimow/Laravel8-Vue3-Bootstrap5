@@ -16,6 +16,6 @@ Then
 
 And don't forget the `.env` file and to generate the `APP_KEY` using `php artisan key:generate`
 
-tThen you can run:
+Then you can run:
 
 `php artisan serve`
